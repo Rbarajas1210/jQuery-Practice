@@ -1,5 +1,5 @@
 //Task 0
-
+$(".example0").hide();
 //Task 1
 
 //Task 2
